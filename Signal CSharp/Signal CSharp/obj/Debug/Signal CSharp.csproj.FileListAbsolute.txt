@@ -1,0 +1,28 @@
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\bin\Debug\Signal CSharp.exe.config
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\bin\Debug\Signal CSharp.exe
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\bin\Debug\Signal CSharp.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.csprojAssemblyReference.cache
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\obj\Debug\Signal_CSharp.Properties.Resources.resources
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.csproj.GenerateResource.cache
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.exe
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Signal CSharp\Signal CSharp\obj\Debug\Signal_CSharp.Window.resources
+C:\Users\X-8\Desktop\Signal CSharp\Signal CSharp\bin\Debug\Signal CSharp.exe.config
+C:\Users\X-8\Desktop\Signal CSharp\Signal CSharp\bin\Debug\Signal CSharp.exe
+C:\Users\X-8\Desktop\Signal CSharp\Signal CSharp\bin\Debug\Signal CSharp.pdb
+C:\Users\X-8\Desktop\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.csprojAssemblyReference.cache
+C:\Users\X-8\Desktop\Signal CSharp\Signal CSharp\obj\Debug\Signal_CSharp.Window.resources
+C:\Users\X-8\Desktop\Signal CSharp\Signal CSharp\obj\Debug\Signal_CSharp.Properties.Resources.resources
+C:\Users\X-8\Desktop\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.csproj.GenerateResource.cache
+C:\Users\X-8\Desktop\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.exe
+C:\Users\X-8\Desktop\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.pdb
+E:\university\ТК\3 курс\Signal CSharp\Signal CSharp\bin\Debug\Signal CSharp.exe.config
+E:\university\ТК\3 курс\Signal CSharp\Signal CSharp\bin\Debug\Signal CSharp.exe
+E:\university\ТК\3 курс\Signal CSharp\Signal CSharp\bin\Debug\Signal CSharp.pdb
+E:\university\ТК\3 курс\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.csprojAssemblyReference.cache
+E:\university\ТК\3 курс\Signal CSharp\Signal CSharp\obj\Debug\Signal_CSharp.Window.resources
+E:\university\ТК\3 курс\Signal CSharp\Signal CSharp\obj\Debug\Signal_CSharp.Properties.Resources.resources
+E:\university\ТК\3 курс\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.csproj.GenerateResource.cache
+E:\university\ТК\3 курс\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.exe
+E:\university\ТК\3 курс\Signal CSharp\Signal CSharp\obj\Debug\Signal CSharp.pdb

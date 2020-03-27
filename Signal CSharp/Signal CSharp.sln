@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signal CSharp", "Signal CSharp\Signal CSharp.csproj", "{4DCB2AF2-1CD6-4C48-A813-CEECB623BA9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DCB2AF2-1CD6-4C48-A813-CEECB623BA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCB2AF2-1CD6-4C48-A813-CEECB623BA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCB2AF2-1CD6-4C48-A813-CEECB623BA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCB2AF2-1CD6-4C48-A813-CEECB623BA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A3B2F5-1B38-4DDA-8254-573ADA768316}
+	EndGlobalSection
+EndGlobal
